@@ -1,2 +1,15 @@
 hi lakshman
 how are you Man.
+
+
+1)create Repo -> remote
+2)Create local repo(master)
+3)sync local & remote: git add remote origin https
+4)local->code changes->push
+5)create sprint01/dev branch -Parent
+6)update your local repo: git fetch
+7)checkout sprint01/dev in local repo
+8)create task01 branch -> code changes -> push
+9)raise PR
+
+git config --global user.email
